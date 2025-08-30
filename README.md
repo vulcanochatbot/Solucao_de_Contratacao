@@ -9,7 +9,7 @@ Levar a triagem para onde o trabalhador já está (WhatsApp), padronizar dados m
 
 # Soluções (síntese)
 
-### * Cadastro mínimo padronizado no celular
+### ** Cadastro mínimo padronizado no celular
 
 Função, experiência, região/bairro, disponibilidade, diária e fotos de obra. Ajuda a dar visibilidade e a comparar perfis de forma justa.
 
